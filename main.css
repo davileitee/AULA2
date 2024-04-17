@@ -1,5 +1,5 @@
 body {
-    background-image: url(homem-aranha-atraves-do-aranhaverso-duracao-recorde.jpg);
+    background-image: url(imagemdefundo.jpg);
     background-repeat: no-repeat;
     background-size: 2000px;
     
@@ -7,7 +7,7 @@ body {
  .blog {
     width: 400px;
     height: 50px;
-    background-image: url(miranha.jpg);
+    background-image: url(imagemmexendo.jpg);
     background-repeat: no-repeat;
     background-size: 400px;
     position: relative;
@@ -33,7 +33,7 @@ body {
 }
 .info {
     font-size: 20px;
-    color: white;
+    color: rgb(66, 66, 66);
   }
   .filmes {
     margin-top: 20px;
@@ -49,7 +49,7 @@ body {
       border-radius: 40px;
   }
   .cor-link {
-      color: white;
+      color: rgb(66, 66, 66);
   }
   .imagem {
     translate: 1400px 0px;
@@ -57,7 +57,7 @@ body {
     height: 600px;
     border: 4px solid black;
     border-radius: 40px;
-    background-image: url(homem\ aranha\ multi.webp);
+    background-image: url(imagemquadrado.webp);
     position: absolute ;
     vertical-align: baseline;
     background-size: 250px 600px;
